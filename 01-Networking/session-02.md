@@ -61,9 +61,27 @@ Example: Opening a website (https://google.com)
 
 ---
 
-## 💻 Practical Work
 
 ### 1. Check IP Address
 
-```bash
+```
 ipconfig
+
+## 🧠 Key Observations (OSI + Commands)
+
+- `ipconfig` shows IP configuration → relates to Network Layer (Layer 3)
+- IPv4/IPv6 addresses are used for identifying devices across networks
+- Default gateway represents routing path → also part of Network Layer
+- `ping` uses ICMP protocol → operates at Network Layer
+- OSI model helps map real commands to conceptual layers
+
+---
+
+## 📄 Raw Command Output
+
+```
+Windows IP Configuration
+
+IPv4 Address. . . . . . . . . . . : 192.168.29.45
+IPv6 Address. . . . . . . . . . . : 2404:6800:4009:825::200e
+Default Gateway . . . . . . . . . : 192.168.29.1
