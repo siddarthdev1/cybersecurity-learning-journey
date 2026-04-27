@@ -25,10 +25,8 @@ Building strong fundamentals in networking, Linux, and web security to become jo
 
 ## 📂 Repository Structure
 ```
-01-Networking/
-  └── session-01.md
-```
 
+[Session 01](01-Networking/session-01.md)
 ---
 
 ## 🚀 Goal
