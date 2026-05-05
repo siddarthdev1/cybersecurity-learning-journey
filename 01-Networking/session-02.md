@@ -1,8 +1,5 @@
 # Session 02 – OSI Model
 
-
-
-
 ## 🎯 Objective
 Understand OSI Model layers and map them to real-world networking
 
