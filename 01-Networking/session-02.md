@@ -1,7 +1,5 @@
 # Session 02 – OSI Model
 
-## 📅 Date
-27-04-2026
 
 
 
