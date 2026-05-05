@@ -1,7 +1,5 @@
 # Session 01 – Networking Basics
 
-## 📅 Date
-26 April 2026
 
 
 ## 🎯 Objective
