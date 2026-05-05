@@ -3,8 +3,6 @@
 ## 📅 Date
 26 April 2026
 
-## ⏱️ Duration
-1 Hour
 
 ## 🎯 Objective
 Understand basic networking concepts and test connectivity
@@ -43,7 +41,7 @@ ipconfig
 
 ## 📄 Raw Output
 
-```bash
+```
 Pinging google.com [2404:6800:4009:825::200e] with 32 bytes of data:
 Reply from 2404:6800:4009:825::200e: time=92ms 
 Reply from 2404:6800:4009:825::200e: time=94ms 
